@@ -1,0 +1,7 @@
+id = "monokai-og"
+name = "Monokai Original"
+version = "0.1.0"
+schema_version = 1
+authors = ["Siddha"]
+description = "A faithful recreation of the original Monokai theme"
+repository = "https://github.com/siddha/monokai-og-zed"
